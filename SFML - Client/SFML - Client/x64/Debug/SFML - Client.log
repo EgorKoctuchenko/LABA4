@@ -1,0 +1,188 @@
+﻿  Client.cpp
+G:\VISUAL STUDIO\vs\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(222,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(235,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(235,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(244,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(244,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(253,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(253,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(262,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(262,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(271,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(271,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(280,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(280,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(289,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(289,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(298,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(298,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(307,94): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(307,73): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(316,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(316,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(324,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(324,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(334,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(334,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(343,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(343,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(352,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(352,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(362,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(362,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(371,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(371,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(380,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(380,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(389,95): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Client\SFML - Client\Client.cpp(389,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  SFML - Client.vcxproj -> G:\Львовское Игра\Proj2\SFML - Client\x64\Debug\SFML - Client.exe
